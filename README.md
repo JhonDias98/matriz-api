@@ -20,7 +20,7 @@ Após executar a aplicação, [clique aqui](http://localhost:8080/swagger-ui/ind
 
 **Para os casos tratados, estão sendo tratados corretamente?**
 
-**Resposta:** Sim
+**Resposta:** Sim.
 
 **Como você sabe disso?**
 **Resposta:** Fiz vários testes manuais com listas inválidas e válidas, como 4x4 e 5x5, em todos os casos, tive o resultado esperado. 
@@ -31,4 +31,4 @@ Após executar a aplicação, [clique aqui](http://localhost:8080/swagger-ui/ind
 
 **Você escreveu teste unitário?**
 
-**Resposta:** Sim, cobertura dos testes acima de 90%
+**Resposta:** Sim, utilizei JUnit, cobertura dos testes acima de 90%.
